@@ -15,7 +15,9 @@ Twelve months of fashion retail transactions, **July 2025 – June 2026**: every
 | **$582,121** revenue | **5,084** orders | **7,009** units | **898** customers |
 | **197** SKUs | **30** styles | **6** categories | **8** markets |
 
-*Dataset was derived from synthetic dataset ]*
+*This project uses **synthetic (programmatically generated) sample data**, created
+for demonstration and portfolio purposes. It does **not** represent any real
+company, customers, or sales — all values are fictional
 
 #fashionanalytics
 
@@ -70,7 +72,13 @@ Transaction-level data modeled, cleaned, and aggregated before visualization in 
 
 **Geography** — revenue by country, customer count on hover. The UK and US together are 54% of revenue across eight markets.
 
-**Filters** — *[which filters are wired up, and what they apply to]*
+**Methodology/Filters** — 
+**Returns excluded from sales metrics:** a `sales` view (`WHERE returned = 0`) 
+  underlies all revenue KPIs, so returned orders don't inflate sales figures.
+- **Returns retained for Return Rate:** the return-rate metric uses the full 
+  transactions table, since measuring returns requires the returned rows.
+- **Top 10 Products:** limited to the top 10 products by revenue.
+- No date, geography, or data-cleaning filters were applied.
 
 ***
 
