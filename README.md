@@ -2,7 +2,7 @@
 
 <img src="images/dashboard.png" alt="Fashion Retail KPI dashboard" width="850">
 
-**🔗 [Explore the interactive dashboard on Tableau Public]([PASTE_YOUR_TABLEAU_LINK](https://public.tableau.com/app/profile/seung.eun.yeo/viz/FirstFashionSalesDashboard/FashionSalesDashboard)**
+**🔗 [Explore the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/seung.eun.yeo/viz/FirstFashionSalesDashboard/FashionSalesDashboard)**
 
 ***
 
