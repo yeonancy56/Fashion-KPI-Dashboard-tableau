@@ -15,7 +15,7 @@ Twelve months of fashion retail transactions, **July 2025 – June 2026**: every
 | **$582,121** revenue | **5,084** orders | **7,009** units | **898** customers |
 | **197** SKUs | **30** styles | **6** categories | **8** markets |
 
-*[Note where the data came from — synthetic, generated, exported. Say it plainly.]*
+*Dataset was derived from synthetic dataset ]*
 
 #fashionanalytics
 
